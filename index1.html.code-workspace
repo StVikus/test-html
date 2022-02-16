@@ -1,0 +1,14 @@
+{
+	"folders": [],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Open stvtest.html",
+				"file": "c:\\Users\\stvik\\OneDrive - Tysvær kommune\\Documents\\FUS 2021-2022\\Programmering\\stvtest.html"
+			}
+		]
+	}
+}
