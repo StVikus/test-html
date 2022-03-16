@@ -17,7 +17,7 @@
 <h1> <center>MITT Valgfri EMNE</center> </h1>
 	<p>Info linje 1</p>
 	<p>Info linje 2</p>
-  <img src="romsdalshorn.jpg" alt="bilde av klasse 9c" width="400">
+  <img src="romsdalshorn.jpg" alt="bilde av Romsdalshornet" width="400">
 <div>
 <script src="https://cdn.htmlgames.com/embed.js?game=DailyTrafficJam&amp;bgcolor=white"></script>
 </div>
